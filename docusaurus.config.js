@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://beeena.github.io/test-ghp/',
-  baseUrl: '/test-ghp/index.html/',
+  url: 'https://beeena.github.io/',
+  baseUrl: '/test-ghp/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
