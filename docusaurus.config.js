@@ -9,7 +9,7 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://beeena.github.io/test-ghp/',
-  baseUrl: 'test-ghp/',
+  baseUrl: '/test-ghp/index.html/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,7 +17,7 @@ const config = {
   // projectName: 'docusaurus', // Usually your repo name.
   // url: 'https://https://beeena.github.io/', // Your website URL
   projectName: 'test-ghp',
-  organizationName: 'Doc',
+  organizationName: 'beeena',
 
   presets: [
     [
