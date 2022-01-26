@@ -35,6 +35,9 @@ function  Feature({Svg, title, description}) {
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
+      <div>
+        <h3>hello world</h3>
+      </div>
     </div>
   );
 }
