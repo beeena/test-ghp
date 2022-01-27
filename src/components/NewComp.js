@@ -7,6 +7,7 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className='container'>
         <div className='row'>hi there</div>
+        <p>lorem hellooo asd</p>
       </div>
     </section>
   );
