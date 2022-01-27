@@ -18,7 +18,7 @@ function HomepageHeader() {
             className='button button--secondary button--lg'
             to='/docs/intro'
           >
-            Test deploy - 5min ⏱️
+            Test deploy and test- 10min ⏱️
           </Link>
         </div>
       </div>
